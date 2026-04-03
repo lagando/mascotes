@@ -1,2 +1,17 @@
-{
-}
+[
+  {
+    "temporada": 0,
+    "ranking": [
+      { "posicao": 1, "nome": "BobBahia", "planetas_conquistados": 9, "osmose": 265700000000000 },
+      { "posicao": 2, "nome": "giulia", "planetas_conquistados": 8, "osmose": 20200000000000 },
+      { "posicao": 3, "nome": "thaislinda", "planetas_conquistados": 8, "osmose": 1400000000000 },
+      { "posicao": 4, "nome": "Lagando", "planetas_conquistados": 7, "osmose": 2400000000000 },
+      { "posicao": 5, "nome": "vini", "planetas_conquistados": 1, "osmose": 27000000 },
+      { "posicao": 6, "nome": "Samuelteixei", "planetas_conquistados": 1, "osmose": 2500000 },
+      { "posicao": 7, "nome": "abutree", "planetas_conquistados": 1, "osmose": 827000 },
+      { "posicao": 8, "nome": "Marduk", "planetas_conquistados": 0, "osmose": 13100000000000 },
+      { "posicao": 9, "nome": "Rafa Barcelos", "planetas_conquistados": 0, "osmose": 5700 },
+      { "posicao": 10, "nome": "Letvikran", "planetas_conquistados": 0, "osmose": 1200 }
+    ]
+  }
+]
