@@ -1,1 +1,2 @@
-Agora tem um planeta a mais. E agora o jogo voltou a ter estrelas!
+Tirei o bug do reset.
+NOVO DESAFIO! AUMENTE O SOM! 😎
